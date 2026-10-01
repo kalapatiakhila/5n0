@@ -16,6 +16,9 @@ function App(){
             <p>{message1}</p>
             <p>{message2}</p>
             <p>{message3}</p>
+            <nav>
+             <h2>My Navbar</h2>
+            </nav>
         </div>
     );
 }
